@@ -9,6 +9,5 @@ public class TestJVM {
             System.out.println(str);
         }
         int a = 10;
-        int b = 100;
     }
 }
