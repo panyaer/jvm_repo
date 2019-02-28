@@ -8,5 +8,6 @@ public class TestJVM {
         }else {
             System.out.println(str);
         }
+        int a = 10;
     }
 }
